@@ -29,7 +29,7 @@ The functionality of each gate is verified using waveform simulation, and a logi
 ![Waveform Output](waveform.png)
 
 ### Logic Gate Diagram
-![Logic Gate Diagram](logic diagram.png)
+![Logic Gate Diagram](logic-diagram.png)
 
 ## How to Run
 
